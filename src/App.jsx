@@ -3,6 +3,7 @@ function App() {
 		<div className="min-h-screen flex flex-col text-white">
 			<main className="container mx-auto px-6 pt-16 flex-1 text-center">
 
+
 				<h2 className="text-7xl md:text6xl lg:text-8xl text-primary font-black mt-32 mb-10">Iconic Bot</h2>
 				<h1 className="text-4xl md:text-4xl lg:text-6xl mb-10">Launching in Early 2022</h1>
 
@@ -15,6 +16,8 @@ function App() {
 					943,245 members
 				</div>
        */}
+
+	   
         
 
 				<form 
