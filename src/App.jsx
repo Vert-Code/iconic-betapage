@@ -50,18 +50,6 @@ function App() {
 
 				</form>
 			</main>
-
-			<footer className="container mx-auto p-6">
-				<div className="flex flex-col md:flex-row items-center justify-between">
-					<p className="mb-4 md:mb-0 md:text-xl">Built with 💖 by Vert</p>
-
-					<div className="flex -mx-6">
-						<a href="#" className="mx-3 hover:opacity-80 duration-150">About</a> •
-						<a href="#" className="mx-3 hover:opacity-80 duration-150">Privacy</a> • 
-						<a href="#" className="mx-3 hover:opacity-80 duration-150">Contact</a>
-					</div>
-				</div>
-			</footer>
 		</div>	
 	)
 }
